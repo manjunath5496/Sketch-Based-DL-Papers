@@ -62,7 +62,7 @@ Adversarial Networks</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Based-DL-Papers/blob/master/sk(31).pdf" style="text-decoration:none;">Interactive Sketch-Based Normal Map Generation with Deep Neural Networks</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Based-DL-Papers/blob/master/sk(32).pdf" style="text-decoration:none;">A Survey on Sketch Based Content Creation: from the Desktop to Virtual and Augmented Reality</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Based-DL-Papers/blob/master/sk(33).pdf" style="text-decoration:none;">BezierSketch: A generative model for scalable vector sketches</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Based-DL-Papers/blob/master/sk(33).pdf" style="text-decoration:none;">BezierSketch: A generative model for scalable vector sketches</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Based-DL-Papers/blob/master/sk(34).pdf" style="text-decoration:none;">Learning Deep Sketch Abstraction</a></li> 
  
